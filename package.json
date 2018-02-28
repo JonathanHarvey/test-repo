@@ -1,0 +1,7 @@
+{
+  "name": "@JonathanHarvey/test-repo",
+  "version": "1.0.0",
+  "description": "a test repo",
+  "main": "index.js",
+  "author": "Jonathan Harvey"
+}
